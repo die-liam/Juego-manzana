@@ -9,4 +9,10 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <plugin name="cordova-plugin-geolocation" />
+    <plugin name="cordova-plugin-device-motion" />
+    <plugin name="cordova-plugin-device-orientation" />
+    <plugin name="cordova-plugin-compat" />
+    <plugin name="cordova-plugin-whitelist " />
+
 </widget>
